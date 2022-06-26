@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix23">
+    <file>right_click.png</file>
+  </qresource>
+</RCC>

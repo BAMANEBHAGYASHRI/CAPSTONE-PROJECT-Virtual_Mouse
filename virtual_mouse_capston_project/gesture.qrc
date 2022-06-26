@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix1">
+    <file>right_shif.png</file>
+  </qresource>
+</RCC>
